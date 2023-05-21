@@ -11,7 +11,7 @@ V projektu so uporabljeni koncepti:
 <li>dedovanje</li>
 <li>abstraktni razredi in metode</li>
 <li>uporaba izjem in napake</li>
-<li>delo s kolekcijami objektov</li>
+<li>kolekcije</li>
 <li>gradnja uporabniških vmesnikov v ogrodju Swing</li>
 <li>odzivanje na dogodke uporabniškega vmesnika</li>
 <li>uporaba mehanizmov sortiranja</li>
@@ -34,7 +34,7 @@ The concepts used in the project are:
 <li>inheritance</li>
 <li>abstract methods and classes</li>
 <li>errors and exceptions</li>
-<li>collections in Java</li>
+<li>collections</li>
 <li>GUI in Swing framework</li>
 <li>event handling</li>
 <li>applying sorting algorithms</li>
