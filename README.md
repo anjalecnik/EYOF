@@ -5,7 +5,7 @@ V projektu so uporabljeni koncepti:
 <li>razredi</li>
 <li>konstruktorji</li>
 <li>metode get/set</li>
-<li>dokumentacija javanskih razredov</li>
+<li>dokumentacija javanskih razredov (Javadoc)</li>
 <li>ograjevanje</li>
 <li>delo s paketi</li>
 <li>operacijski polimorfizem</li>
@@ -25,8 +25,28 @@ V projektu so uporabljeni koncepti:
 Zaradi lažje preglednosti projekta, so koncepti povezani z nitmi odstranjeni (večnitno izvajanje).
 
 <h2> About </h2>
-This repository contains the source code for the Games Management System developed for the European Youth Olympics Festival (EYOF) 2023. The system is designed to manage the various aspects of the games, including athlete registration, event scheduling.</br>
-The system was built as part of the course Object-Oriented Programming in Java. It features a user-friendly interface that enables easy navigation and access to key features. In addition, the source code contains Javadoc comments for the generation of Javadocs, which provide a comprehensive documentation of the code and its functionality.
+The Games Management System, developed for the European Youth Olympic Festival (EYOF) 2023, is designed to manage various aspects of the Games, including athlete registration, event scheduling.
+The system was built as part of the Object-Oriented Programming in Java course. It has a user-friendly interface that makes it easy to navigate and access key functions. In addition, the source code contains Javadoc comments that provide comprehensive documentation of the code and its functionality.
+The concepts used in the project are:
+<li>classes</li>
+<li>constructors</li>
+<li>Getters and Setters</li>
+<li>Java documentation (Javadoc)</li>
+<li>encapsulation</li>
+<li>working with packages</li>
+<li>operator overloading</li>
+<li>inheritance</li>
+<li>abstract methods and classes</li>
+<li>Java Enums</li>
+<li>interfaces</li>
+<li>errors and exceptions</li>
+<li>passing parameters by value and reference</li>
+<li>collections in Java</li>
+<li>GUI in Swing framework</li>
+<li>event handling</li>
+<li>applying sorting algorithms</li>
+<li>working with files</li>
+<li>serialization</li>
 
 <h2>Author/Avtor</h2>
 Anja Lečnik
