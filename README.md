@@ -23,6 +23,7 @@ V projektu so uporabljeni koncepti:
 <li>serializacija</li>
 <br/>
 Zaradi lažje preglednosti projekta, so koncepti povezani z nitmi odstranjeni (večnitno izvajanje).
+<br/>
 
 <h2> About </h2>
 The Games Management System, developed for the European Youth Olympic Festival (EYOF) 2023, is designed to manage various aspects of the Games, including athlete registration, event scheduling.<br/>
@@ -49,6 +50,7 @@ The concepts used in the project are:
 <li>serialization</li>
 <br/>
 For better project clarity, the concepts related to threads have been removed (multithreading).
+<br/>
 
 <h2>Author/Avtor</h2>
 Anja Lečnik
