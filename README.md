@@ -25,8 +25,8 @@ V projektu so uporabljeni koncepti:
 Zaradi lažje preglednosti projekta, so koncepti povezani z nitmi odstranjeni (večnitno izvajanje).
 
 <h2> About </h2>
-The Games Management System, developed for the European Youth Olympic Festival (EYOF) 2023, is designed to manage various aspects of the Games, including athlete registration, event scheduling.
-The system was built as part of the Object-Oriented Programming in Java course. It has a user-friendly interface that makes it easy to navigate and access key functions. In addition, the source code contains Javadoc comments that provide comprehensive documentation of the code and its functionality.
+The Games Management System, developed for the European Youth Olympic Festival (EYOF) 2023, is designed to manage various aspects of the Games, including athlete registration, event scheduling.<br/>
+The system was built as part of the Object-Oriented Programming in Java course. It has a user-friendly interface that makes it easy to navigate and access key functions. In addition, the source code contains Javadoc comments that provide comprehensive documentation of the code and its functionality.<br/>
 The concepts used in the project are:
 <li>classes</li>
 <li>constructors</li>
