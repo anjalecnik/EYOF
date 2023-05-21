@@ -3,7 +3,6 @@ Sistema za upravljanje iger, ki je bil razvit za Olimpijski festival evropske ml
 Sistem je bil zgrajen v okviru predmeta Objektno programiranje v Javi. Ima uporabniku prijazen vmesnik, ki omogoča enostavno navigacijo in dostop do ključnih funkcij. Poleg tega izvorna koda vsebuje komentarje, ki zagotavljajo celovito dokumentacijo kode in njene funkcionalnosti.<br/>
 V projektu so uporabljeni koncepti:
 <li>razredi in vmesniki</li>
-<li>konstruktorji</li>
 <li>ograjevanje</li>
 <li>dokumentacija javanskih razredov (Javadoc)</li>
 <li>delo s paketi</li>
@@ -26,7 +25,6 @@ The Games Management System, developed for the European Youth Olympic Festival (
 The system was built as part of the Object-Oriented Programming in Java course. It has a user-friendly interface that makes it easy to navigate and access key functions. In addition, the source code contains Javadoc comments that provide comprehensive documentation of the code and its functionality.<br/>
 The concepts used in the project are:
 <li>classes and interfaces</li>
-<li>constructors</li>
 <li>encapsulation</li>
 <li>Java documentation (Javadoc)</li>
 <li>working with packages</li>
