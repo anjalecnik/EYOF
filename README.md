@@ -47,6 +47,8 @@ The concepts used in the project are:
 <li>applying sorting algorithms</li>
 <li>working with files</li>
 <li>serialization</li>
+<br/>
+For better project clarity, the concepts related to threads have been removed (multithreading).
 
 <h2>Author/Avtor</h2>
 Anja Lečnik
