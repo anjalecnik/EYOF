@@ -21,7 +21,7 @@ V projektu so uporabljeni koncepti:
 <li>uporaba mehanizmov sortiranja</li>
 <li>delo z datotekami</li>
 <li>serializacija</li>
-<br/
+<br/>
 Zaradi lažje preglednosti projekta, so koncepti povezani z nitmi odstranjeni (večnitno izvajanje).
 
 <h2> About </h2>
